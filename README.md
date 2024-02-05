@@ -4,7 +4,7 @@
 
 ### View the app online 
 
-Open the live app in your browser with this link: https://deanssmart.github.io/the-gallery/
+Open the live app in your browser with this link: https://iamjedi888.github.io/the-gallery/
 
 ## Intro
 
@@ -52,12 +52,12 @@ Interactive 3D art gallery to showcase some of my drawings and paintings
 ```shell 
 $ cd ~/your-directory-name-here
 ```
-3. Copy the SSH key from this GitHub repository `git@github.com:deanssmart/the-gallery.git`
+3. Copy the SSH key from this GitHub repository `git@github.com:iamjedi888/the-gallery.git`
 
 4. Run the following code in your command line to clone the repo to your machine (you can change the app-name to what you desire):  
 
 ```shell 
-git clone git@github.com:deanssmart/the-gallery.git <app-name>
+git clone git@github.com:iamjedi888/the-gallery.git <app-name>
 ```
 5. Navigate to your new app directory (the app name you just picked):
 
